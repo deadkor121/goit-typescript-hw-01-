@@ -47,4 +47,5 @@ accounts: ["Alex"],
 status: "close",
 };
 
+export{};
 console.log(page1, page2)
